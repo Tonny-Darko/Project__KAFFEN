@@ -1,0 +1,38 @@
+.button{
+    font-weight: 400;
+    line-height: 70px;
+    padding: 10px 18px;
+    border-radius: 2px;
+}
+.button_dark{
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+.button_dark:hover{
+    background-color: #D48521;
+    color: black;
+    transition: all 0.1s ease 0.1s;
+}
+.button_light{
+    color: black;
+    background-color: white;
+}
+.button_light:hover{
+    background-color: #D48521;
+    transition: all 0.1s ease 0.1s;
+}
+.title{
+    font-family: 'Cinzel Decorative';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 60px;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+}
+.orange__text{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 70px;
+    letter-spacing: 0.04em;
+    color: #D48521;
+}
